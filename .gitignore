@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.html
+produtos.csv
+produtos.xlsx
+produtos.json
+usuarios.json
+usuarios_saida.json
+relatorio.xlsx
+saida.*
+
+# Temporary
+/tmp/
+*.tmp

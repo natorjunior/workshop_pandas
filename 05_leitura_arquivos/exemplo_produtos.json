@@ -1,0 +1,37 @@
+[
+  {
+    "produto": "Notebook",
+    "categoria": "Informática",
+    "preco": 2500.0,
+    "estoque": 10,
+    "fornecedor": "Tech Corp"
+  },
+  {
+    "produto": "Mouse",
+    "categoria": "Periféricos",
+    "preco": 50.0,
+    "estoque": 50,
+    "fornecedor": "Tech Corp"
+  },
+  {
+    "produto": "Teclado",
+    "categoria": "Periféricos",
+    "preco": 150.0,
+    "estoque": 30,
+    "fornecedor": "Key Masters"
+  },
+  {
+    "produto": "Monitor",
+    "categoria": "Informática",
+    "preco": 800.0,
+    "estoque": 15,
+    "fornecedor": "Screen Pro"
+  },
+  {
+    "produto": "Webcam",
+    "categoria": "Periféricos",
+    "preco": 200.0,
+    "estoque": 25,
+    "fornecedor": "Cam Plus"
+  }
+]

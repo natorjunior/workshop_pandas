@@ -1,0 +1,6 @@
+produto,categoria,preco,estoque,fornecedor
+Notebook,Informática,2500.00,10,Tech Corp
+Mouse,Periféricos,50.00,50,Tech Corp
+Teclado,Periféricos,150.00,30,Key Masters
+Monitor,Informática,800.00,15,Screen Pro
+Webcam,Periféricos,200.00,25,Cam Plus
